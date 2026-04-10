@@ -6,3 +6,5 @@ opencv-python-headless
 Pillow
 setuptools
 wheel
+setuptools>=61.0
+pip>=24.0
