@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+opencv-python
+tensorflow==2.15.0
